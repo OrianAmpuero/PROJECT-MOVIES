@@ -2,15 +2,17 @@
 
 
 # PROJECT-MOVIES :vhs:
-![img](https://www.comunicae.es/nota/diversion-y-ocio-la-tienda-para-comprar-1171302/)
+![img](https://static.comunicae.com/photos/notas/1171302/1482266669_peliculas.jpg)
 
+---
 
 ## Sobre el proyecto :clapper:
 Segundo proyecto como Data Analyst en [Ironhack](https://www.ironhack.com/). 
-    1. Conocer los datos.
-    2. Limpieza y análisis.
-    3. Crear base de datos y relacionarlas.
-    4. Realizar queries.
+
+1.Conocer los datos.
+2.Limpieza y análisis.
+3.Crear base de datos y relacionarlas.
+4.Realizar queries.
 
 
 ### Construido con 🛠
